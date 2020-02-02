@@ -1,0 +1,22 @@
+# Ignore maven files:
+/target/*
+/.gradle/*
+/gradle/*
+#
+/allure-results/*
+/.idea/*
+*.iml
+/src/main/java/util/ExecutionVariables.java
+
+src/test/output/temp/*
+src/test/output/*
+
+#ignore files in screenshots tests
+actual/
+diff/
+gifs/
+
+tempTests/
+# Project exclude paths
+/build/
+/build/classes/java/test/
