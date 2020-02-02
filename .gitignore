@@ -2,7 +2,6 @@
 /target/*
 /.gradle/*
 /gradle/*
-/gradlew
 /gradlew*
 #
 /allure-results/*
